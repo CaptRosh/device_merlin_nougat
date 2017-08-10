@@ -1,19 +1,19 @@
 [
   {
-    "remote": "aoscp",
-    "repository":  "CaptRosh/kernel_msm8916",
+    "remote": "CaptRosh",
+    "repository":  "kernel_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch": "nougat-mr2"
   },
   {
-    "remote": "aoscp",
-    "repository":  "CaptRosh/device_merlin_nougat",
+    "remote": "CaptRosh",
+    "repository":  "device_merlin_nougat",
     "target_path": "vendor/motorola",
     "branch": "nougat-mr2"
   },
   {
-    "remote": "aoscp",
-    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "remote": "LineageOS",
+    "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch": "cm-14.1"
   }
