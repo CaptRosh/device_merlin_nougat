@@ -1,18 +1,18 @@
 [
   {
-    "remote": "github",
+    "remote": "aoscp",
     "repository":  "CaptRosh/kernel_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch": "cm-14.1"
   },
   {
-    "remote": "github",
+    "remote": "aoscp",
     "repository":  "CaptRosh/device_merlin_nougat",
     "target_path": "vendor/motorola",
     "branch": "cm-14.1"
   },
   {
-    "remote": "github",
+    "remote": "aoscp",
     "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch": "cm-14.1"
