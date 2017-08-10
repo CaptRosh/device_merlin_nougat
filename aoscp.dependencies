@@ -3,13 +3,13 @@
     "remote": "aoscp",
     "repository":  "CaptRosh/kernel_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch": "cm-14.1"
+    "branch": "nougat-mr2"
   },
   {
     "remote": "aoscp",
     "repository":  "CaptRosh/device_merlin_nougat",
     "target_path": "vendor/motorola",
-    "branch": "cm-14.1"
+    "branch": "nougat-mr2"
   },
   {
     "remote": "aoscp",
