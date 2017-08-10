@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository":  "https://github.com/CaptRosh/kernel_msm8916",
+    "repository":  "CaptRosh/kernel_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch": "cm-14.1"
   },
   {
     "remote": "github",
-    "repository":  "https://github.com/CaptRosh/device_merlin_nougat",
+    "repository":  "CaptRosh/device_merlin_nougat",
     "target_path": "vendor/motorola",
     "branch": "cm-14.1"
   },
